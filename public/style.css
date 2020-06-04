@@ -1,0 +1,161 @@
+img{
+    height: 90px !important;
+    width: 50px;
+    background: transparent !important;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+.shop-name{
+    font-style: bold;
+    font-size: 30px;
+}
+.navbar-nav{
+    font-style: bold;
+    font-size: 20px;
+}
+.navbar{
+    background-color: #E1BEE7 !important;
+}
+
+.slider{
+    height: 100px;
+    width: 100%;
+}
+.carousel{
+    margin-top: 20px !important;
+}
+.carousel-item{
+    align-items: center;
+}
+.slider{
+    align-items: center !important;
+    height: 450px  !important;
+}
+.btn{
+    align-self: center !important;
+    margin-top: 20px;
+}
+.card{
+    margin-top: 20px !important;
+    margin-left: 50px !important;
+}
+.aboutheading{
+   
+    background-color:  #E1BEE7 !important;
+}
+.descrip{
+    
+    background-color:  #FFCDD2 !important;
+    margin-top: 30px;
+    display: flex;
+
+}
+.details{
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+}
+.card-img-top{
+    width: 285px !important;
+    height: 150px !important;
+   
+}
+.btn{
+    background-color: #4DB6AC !important;
+    margin-left: 30px !important;
+    box-shadow: 20px !important;
+}
+.helpheading{
+    display: flex !important;
+    background-color:  #E1BEE7 !important;
+
+}
+.helpform{
+    margin-left: 30px !important;
+}
+.form-group{
+    margin-left: 30px !important;
+}
+.email{
+    background-color:  #FFCDD2 !important;
+}
+.media{
+    align-items: center !important;
+    margin-top: 280px !important;
+    margin-left: 230px !important;
+
+}
+.mr-3{
+    width: 200px;
+    height: 90px;
+    align-items: center !important;
+}
+.cos{
+    background-color:  #E1BEE7 !important;
+    text-align: center;
+    display: flex;
+}
+.home2{
+    text-align: center;
+    background-color: #E1BEE7 !important;
+    margin-top: 20px !important;
+}
+.fa-truck,.fa-thumbs-up,.fa-headphones{
+    font-size: 42px !important;
+    margin-right: 10px !important;
+}
+.card1,.card2,.card3{
+    display: flex;
+    width: 250px;
+    height: 80px;
+    background-color: #fff;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px !important;
+}
+.maincard{
+    margin-top: 20px !important;
+    display: flex !important;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.flexcard{
+    color: #4DB6AC;
+}
+.footer{
+    width: 100%;
+    background-color: #4DB6AC;
+    height: 50px !important;
+}
+.footer{
+    text-align: center;
+}
+.copy{
+    margin-top: 10px !important;
+}
+.foundation{
+    margin-top: 30px !important;
+    color: black;
+    text-shadow: 1px 1px 2px black, 0 0 25px #E1BEE7 , 0 0 5px #4DB6AC ;
+    font-size: 40px  !important;
+}
+.btn:hover{
+    background-color: grey !important;
+}
+.topbtn {
+    position: fixed;
+    
+    bottom: 10px;
+    right: 30px;
+  
+    color: lightgrey;
+    border: none;  
+    outline: none; 
+    cursor: pointer;
+    background-color: transparent;
+    padding-right: 12px;
+  }
